@@ -83,3 +83,37 @@ Objectives:
 - Identify top-5 days by ROMI
 - Determine the campaign with the highest weekly value
 - Find the largest month-over-month reach increase
+
+Task 2: GA4 Data Preparation in BigQuery
+
+Source: Public GA4 eCommerce dataset (2021)
+Objectives:
+
+- Extract events: session_start, view_item, add_to_cart, begin_checkout, add_shipping_info, add_payment_info, purchase
+- Keep dimensions: timestamp, users, sessions, country, device, traffic source, campaign name
+
+  
+Task 3: Conversion Calculations
+
+Goal: Build a conversion funnel (from session start to purchase) by date, source, medium, campaign.
+
+Metrics:
+- visit_to_cart
+- visit_to_checkout
+- visit_to_purchase
+
+  
+Task 4: Landing Page Conversion Comparison
+
+Source: GA4 dataset (2020)
+
+Objectives:
+- Identify the page path of session start
+- Calculate conversion from session start to purchase
+
+Results
+ 
+- SQL queries run successfully in PostgreSQL and BigQuery
+- Built analytical tables ready for BI integration
+- Identified top-performing campaigns and landing pages with highest conversions
+- Calculated conversion rates and identified drop-off points in the funnel
