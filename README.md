@@ -69,3 +69,4 @@ PostgreSQL Queries (Task 1)
 BigQuery Queries (Tasks 2–5)
 - [BigQuery_GA4_events_extraction.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/8b2b31f88b778c96612227d13847b25e5b7044b2/BigQuery_GA4_events_extraction.sql) – Extract required GA4 events with selected dimensions
 - [BigQuery_conversion_funnel.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/b6e6e88d84fb0604550d821d37f05b38005a977e/BigQuery_conversion_funnel.sql) - Build conversion funnel metrics by date, source, medium, campaign
+- [BigQuery_landing_page_conversion.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/71283f98b74cc77c482954f1f20c2e11f80218a1/BigQuery_landing_page_conversion.sql) - Compare conversions by landing page
