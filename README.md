@@ -61,7 +61,7 @@ SQL Scripts
 PostgreSQL Queries (Task 1)
 
 
-[PostgreSQL_Daily_MIN, MAX, AVG.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/main/PostgreSQL_Daily_MIN%2C%20MAX%2C%20AVG.sql) – Average, min, max daily spend by platform
-PostgreSQL_top5_days_by_romi.sql – Top 5 days with highest ROMI
+- [PostgreSQL_Daily_MIN, MAX, AVG.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/main/PostgreSQL_Daily_MIN%2C%20MAX%2C%20AVG.sql) – Average, min, max daily spend by platform
+- [PostgreSQL_ROMI.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/905af02cc9a077ff2bb6b0b664d8feb770ffb4ee/PostgreSQL_ROMI.sql) – Top 5 days with highest ROMI
 PostgreSQL_highest_weekly_value_campaign.sql – Campaign with highest weekly value
 PostgreSQL_monthly_reach_growth.sql – Largest month-over-month reach increase
