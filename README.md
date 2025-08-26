@@ -1,4 +1,4 @@
-# E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-
+# E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4
 Project Overview
 
 This project demonstrates a complete workflow of digital marketing analytics combined with eCommerce user behavior insights.
@@ -49,3 +49,13 @@ Methodology:
 - funnel Analysis
 - time-series aggregation
 - correlation analysis
+
+Repository Structure
+
+- SQL/ – all SQL queries
+- outputs/ – results of query execution in CSV
+- README.md
+
+SQL Scripts
+
+PostgreSQL Queries (Task 1)
