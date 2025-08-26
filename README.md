@@ -33,7 +33,7 @@ Project Goals
 - develop SQL queries optimized for BI dashboard integration
 - strengthen skills with advanced PostgreSQL and BigQuery queries
 
-🛠 Tools & Technologies
+Tools & Technologies
 
 - SQL: PostgreSQL (DBeaver), Google BigQuery
 
