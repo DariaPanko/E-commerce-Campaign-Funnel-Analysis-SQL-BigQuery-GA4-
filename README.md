@@ -129,3 +129,10 @@ Results
 - Built analytical tables ready for BI integration
 - Identified top-performing campaigns and landing pages with highest conversions
 - Calculated conversion rates and identified drop-off points in the funnel
+
+
+Author
+
+Daria Panko — Data Analyst
+- 📧 Email: d_panko@icloud.com
+- 🔗 LinkedIn: www.linkedin.com/in/daria-panko-1861b2222
