@@ -75,7 +75,7 @@ PostgreSQL Results
 
 - [PostgreSQL_daily_spend_stats.csv]() – Output of Task 1: Average, min, max daily spend by platform
 - [PostgreSQL_top5_days_by_romi.csv](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/a4d399a1ca09dc64254cd29d806bc52b2ba17a15/PostgreSQL_ROMIcsv.csv) – Output of Task 1: Top 5 days with highest ROMI
-- [PostgreSQL_highest_weekly_value_campaign.csv](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/f0c58abdd31918465deb17b955f5eb640253d804/PostgreSQL_Reach_grown.csv) – Output of Task 1: Campaign with highest weekly value
+- [PostgreSQL_Reach_grown.csv](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/f0c58abdd31918465deb17b955f5eb640253d804/PostgreSQL_Reach_grown.csv) – Output of Task 1: Largest month-over-month reach increase
 
 BigQuery Results
 
