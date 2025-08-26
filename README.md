@@ -76,13 +76,12 @@ PostgreSQL Results
 - [PostgreSQL_daily_spend_stats.csv]() – Output of Task 1: Average, min, max daily spend by platform
 - [PostgreSQL_top5_days_by_romi.csv]() – Output of Task 1: Top 5 days with highest ROMI
 - [PostgreSQL_highest_weekly_value_campaign.csv]() – Output of Task 1: Campaign with highest weekly value
-- [PostgreSQL_monthly_reach_growth.csv}()– Output of Task 1: Largest month-over-month reach increase
 
 BigQuery Results
 
-- [BigQuery_ga4_events_extraction.csv]() – Output of Task 2: Extract required GA4 events with selected dimensions
-- [BigQuery_conversion_funnel.csv]() – Output of Task 3: Conversion funnel metrics by date, source, medium, campaign
-- [BigQuery_landing_page_conversion.csv]() – Output of Task 4: Compare conversions by landing page
+- [BigQuery_ga4_events_extraction.csv](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/4cfaeb9a41171eaa278b8d87b63ba3de7aea5f79/BigQuery_ga4_events_extraction.csv) – Output of Task 2: Extract required GA4 events with selected dimensions
+- [BigQuery_conversion_funnel.csv](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/2856eb9eff30a58b98b0954cc39c037da075ba8e/BigQuery_conversion_funnel.csv) – Output of Task 3: Conversion funnel metrics by date, source, medium, campaign
+- [BigQuery_landing_page_conversion.csv](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/5311cf8add93ae26d8e82e90a2c1a2291b6069a4/BigQuery_landing_page_conversion.csv) – Output of Task 4: Compare conversions by landing page
 
 Tasks
 
