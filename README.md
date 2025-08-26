@@ -63,5 +63,9 @@ PostgreSQL Queries (Task 1)
 
 - [PostgreSQL_Daily_MIN, MAX, AVG.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/main/PostgreSQL_Daily_MIN%2C%20MAX%2C%20AVG.sql) – Average, min, max daily spend by platform
 - [PostgreSQL_ROMI.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/905af02cc9a077ff2bb6b0b664d8feb770ffb4ee/PostgreSQL_ROMI.sql) – Top 5 days with highest ROMI
-- [PostgreSQL_Weekly_value.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/ec8862c7bf498cf85d79479d4c4daf3828917ac2/PostgreSQL_Weekly_value.sql)- Campaign with highest weekly value
+- [PostgreSQL_Weekly_value.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/ec8862c7bf498cf85d79479d4c4daf3828917ac2/PostgreSQL_Weekly_value.sql) - Campaign with highest weekly value
 - [PostgreSQL_Reach_grown.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/ec8862c7bf498cf85d79479d4c4daf3828917ac2/PostgreSQL_Reach_grown.sql) – Largest month-over-month reach increase
+
+BigQuery Queries (Tasks 2–5)
+- [BigQuery_GA4_events_extraction.sql](https://github.com/DariaPanko/E-commerce-Campaign-Funnel-Analysis-SQL-BigQuery-GA4-/blob/8b2b31f88b778c96612227d13847b25e5b7044b2/BigQuery_GA4_events_extraction.sql) – Extract required GA4 events with selected dimensions
+- 
